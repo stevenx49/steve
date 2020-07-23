@@ -1,8 +1,9 @@
 ## PSIKOLOGI CARA BERPIKIR
 
 
-### Markdown
+### PENDAHULUAN
 psikologi cara berpikir adalah
+John Henry Muirhead adalah seorang filsuf Inggris yang terkenal karena telah memprakarsai Perpustakaan Filsafat Muirhead pada tahun 1890. Ia menjadi orang pertama yang ditunjuk oleh Ketua Filsafat di Universitas Birmingham pada tahun 1900.
 
 ```markdown
 Syntax highlighted code block
